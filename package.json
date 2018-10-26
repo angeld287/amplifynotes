@@ -1,13 +1,13 @@
 {
   "name": "aws-amplify-react-custom-ui-example",
-  "homepage": "https://youssef maghzaz.github.io/aws-amplify-react-custom-ui",
+  "homepage": "https://ysfmag.github.io/aws-amplify-react-custom-ui",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "aws-amplify": "^1.1.7",
     "aws-amplify-react": "^2.1.1",
-    "aws-amplify-react-custom-ui": "link:..",
+    "aws-amplify-react-custom-ui": "^1.2.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
